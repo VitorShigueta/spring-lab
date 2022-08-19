@@ -1,0 +1,7 @@
+com\example\springrestswagger\DTO\ClienteDTO.class
+com\example\springrestswagger\controllers\ClienteController.class
+com\example\springrestswagger\models\Cliente.class
+com\example\springrestswagger\SpringRestSwaggerApplication.class
+com\example\springrestswagger\models\ClienteRepository.class
+com\example\springrestswagger\services\ClienteService.class
+com\example\springrestswagger\config\SwaggerConfig.class
